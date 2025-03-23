@@ -3,10 +3,10 @@ This are the list of the courses I find on internet which can be helpful.
 
 ## Categories
 - [Digital VLSI Design](#DIGITAL-VLSI-DESIGN)
-- [Testing and Verification](#Testing&Verification)
+- [Testing and Verification](#Testing-and-Verification)
 - [Computer Architecture](#Computer-Architecture)
-- [Programming Resources University](#LanguageResources)
-- [References](#RefPages)
+- [Programming Resources University](#Programming-Resources-University)
+- [References](#References)
 
 ## Digital VLSI Design
 - [Digital VLSI Design - by Prof. Erik Brunvand](https://utah.instructure.com/courses/340937)
